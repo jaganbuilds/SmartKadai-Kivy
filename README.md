@@ -1,7 +1,8 @@
 # 🛒 SmartKadai — Offline Smart Billing & Inventory Management App
 
 SmartKadai is an offline-first billing and inventory management application designed for small retail shops, grocery stores, and provision stores. It helps shop owners manage products, process bills, monitor stock, review sales, and estimate future revenue using baseline forecasting methods.
-
+##DEMO VIDEO
+https://drive.google.com/file/d/1uHGqmGp5LxNTqVt6_jXYdW3Yq35w1psG/view?usp=drive_link
 ## 🚀 Features
 
 - **Billing Management** — Create bills and calculate sales totals.
