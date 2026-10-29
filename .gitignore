@@ -1,0 +1,28 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+*.spec
+
+# Local databases and sales data
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+
+# Authentication and secrets
+smartkadai_auth.json
+.env
+.env.*
+!.env.example
+
+# Backup scripts
+main_backup_*.py
+backup_test_*.py
+
+# Temporary screenshots and logs
+*.log
+*.png
